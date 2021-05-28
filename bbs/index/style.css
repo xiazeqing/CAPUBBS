@@ -83,8 +83,8 @@ span.banzhu{
 }
 div.hot{
 	margin-left: 10px;
-	font-size: 16px;
-	line-height: 32px;
+	font-size: 12px;
+	line-height: 16px;
 }
 div.hot a{
 	text-decoration: none;
@@ -127,7 +127,7 @@ a:hover{
 	text-decoration: underline;
 }
 span.hint{
-	font-size:14px
+	font-size:10px
 }
 span.hint2{
 	color:#966347
